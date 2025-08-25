@@ -1,2 +1,4 @@
-# TangNano9K-Pacman
-Pacman Arcade synthesized on a Tang Nano 9K FPGA Board.
+# Tang Nano 9K - Pacman
+![Model](TN9K-Pacman.jpg)
+
+Pacman Arcade vhdl code ported to a Tang Nano 9K FPGA Board. Works with VGA Monitor. Code from MikeJ.
